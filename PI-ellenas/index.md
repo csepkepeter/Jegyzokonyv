@@ -31,9 +31,9 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 
 ## Számítások  
 
-<img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/keplet.PNG" width="300" height="170">  
+<img src="https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/keplet.PNG" width="300" height="170">  
 
-<img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/szamitas2.PNG" width="300" height="170">  
+<img src="szamitas2.https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/PNG" width="300" height="170">  
 
 ## Csillapítási Eredmények gyakorlatban 
 
@@ -66,7 +66,7 @@ $$\text{Csillapítás (%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
 - **Csillapítás (%)**: 46.8%  
 
 ### A kapcsolási rajz ábrázolja a Pi csillapítót a gyakorlati ellenállás értékekkel:
-<img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/falstad2.PNG" width="770" height="400">
+<img src="https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/falstad2.PNG" width="770" height="400">
 
 ## Csillapítási Eredmények elméletben  
 
@@ -100,7 +100,7 @@ $$\text{Csillapítás (%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89 \%
 - **Csillapítás (dB)**: -5.98 dB
 - **Csillapítás (%)**: 49.89 %
 
-<img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/falstad1.PNG" width="770" height="400">
+<img src="https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/falstad1.PNG" width="770" height="400">
 
 ### Elemzés
 A PI csillapító (PI pad) ellenállásos áramkör elemzése során megállapítható, hogy a tervezett áramkör hatékonyan csökkenti a jel amplitúdóját, miközben megőrzi annak formáját. Az áramkör négy fő összetevőből áll: három ellenállásból és egy terhelő ellenállásból. Megfigyelhető, hogy kisebb eltérések vannak a számított és a mért értékek között.
