@@ -2,7 +2,7 @@
 
 **A mérést végző neve:** Csépke Péter, Horváth Martin  
 **A mérés tárgya:** A különböző frekvenciák és modulációk miként befolyásolják a jelminőséget.  
-**A mérés száma:** LED 01  
+**A mérés száma:** 03  
 **A mérés dátuma:** 2024. 10. 09.  
 **A mérést vezette:** Sándor Péter
 
