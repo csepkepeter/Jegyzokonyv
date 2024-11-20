@@ -2,7 +2,7 @@
 
 **A mérést végző neve:** Csépke Péter, Szabó Kristóf Gergő  
 **A mérés tárgya:** A különböző típusú antennák teljesítménye és a vételi jelminőség összehasonlítása.  
-**A mérés száma:** 01  
+**A mérés száma:** 2.mérés  
 **A mérés dátuma:** 2024. 10. 07.  
 **A mérést vezette:** Sándor Péter
 
