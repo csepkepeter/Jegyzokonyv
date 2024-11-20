@@ -37,8 +37,8 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 ## Csillapítási Eredmények gyakorlatban 
 
 ### Megadott Értékek  
-- **Bemeneti Feszültség (Vin)**: 10.088 V  
-- **Kimeneti Feszültség (Vout)**: 5.366 V  
+- **Bemeneti Feszültség ($V_{in}$)**: 10.088 V  
+- **Kimeneti Feszültség ($V_{out}$)**: 5.366 V  
 
 ### Csillapítás Kiszámítása (dB)  
 A csillapítást a következő képlettel számoltuk ki:  
@@ -55,10 +55,10 @@ $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
 
 ### Százalékos Csillapítás Kiszámítása  
 A százalékos csillapítást a következő képlettel számoltuk ki:  
-$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
+$$\text{Csillapítás (%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
 
 1. **Csillapítás Kiszámítása:**  
-$$\text{Csillapítás (\%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$  
+$$\text{Csillapítás (%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$  
 
 ### Eredmények
 - **Csillapítás (dB)**: -5.46 dB  
@@ -90,10 +90,10 @@ $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
 
 ### Százalékos Csillapítás Kiszámítása  
 A százalékos csillapítást a következő képlettel számoltuk ki:  
-$$\text{Csillapítás (\%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
+$$\text{Csillapítás (%)} = \left(1 - \frac{V_{out}}{V_{in}}\right) \times 100$$  
 
 1. **Csillapítás Kiszámítása:**  
-$$\text{Csillapítás (\%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89 \%$$  
+$$\text{Csillapítás (%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89 \%$$  
 
 ### Eredmények
 - **Csillapítás (dB)**: -5.98 dB
