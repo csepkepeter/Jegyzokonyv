@@ -65,7 +65,7 @@ $$\text{Csillapítás (%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
 - **Csillapítás (%)**: 46.8%  
 
 ### A kapcsolási rajz ábrázolja a Pi csillapítót a gyakorlati ellenállás értékekkel:
-<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad2.PNG" width="770" height="400">
+<img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/falstad2.PNG" width="770" height="400">
 
 ## Csillapítási Eredmények elméletben  
 
