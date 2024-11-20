@@ -1,1 +1,7 @@
+# Távközlés
+
+## Mérési jegyzőkönyvek:
+- 
+- 
+- 
 
