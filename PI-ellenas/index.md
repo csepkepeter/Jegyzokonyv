@@ -47,10 +47,10 @@ $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
 1. **Hányados Számítása:**  
    $$\frac{V_{out}}{V_{in}} = \frac{5.366}{10.088} \approx 0.532$$  
 
-2. **Logaritmus Számítása:**  
+3. **Logaritmus Számítása:**  
    $$\log_{10}(0.532) \approx -0.273$$  
 
-3. **Csillapítás Kiszámítása:**  
+5. **Csillapítás Kiszámítása:**  
    $$A \approx 20 \cdot (-0.273) \approx -5.46 \, \text{dB}$$  
 
 ### Százalékos Csillapítás Kiszámítása  
@@ -82,10 +82,10 @@ $$A = 20 \cdot \log_{10}\left(\frac{V_{out}}{V_{in}}\right)$$
 1. **Hányados Számítása:**  
    $$\frac{V_{out}}{V_{in}} = \frac{5.011}{10} = 0.5011$$  
 
-2. **Logaritmus Számítása:**  
+3. **Logaritmus Számítása:**  
    $$\log_{10}(0.5011) \approx -0.299$$  
 
-3. **Csillapítás Kiszámítása:**  
+5. **Csillapítás Kiszámítása:**  
    $$A \approx 20 \cdot (-0.299) \approx -5.98 \, \text{dB}$$  
 
 ### Százalékos Csillapítás Kiszámítása  
