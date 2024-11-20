@@ -8,15 +8,6 @@
 
 ---
 
-**Aláírás:**  
-**Évfolyam:** 13. E  
-**Csoport:** GYAK 1  
-**Helyszín:** V3 Labor  
-**Beadás dátuma:** 2024. 10. 09.  
-**Osztályzat:**
-
----
-
 ## A mérés menete és célja:
 
 **Cél:**  
@@ -66,12 +57,12 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 <p align="center"><strong>1. ábra: 64 QAM</strong></p>
 
 <p align="center">
-  <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/projekt3/16qam.png" width="600" height="350">
+  <img src="https://csepkepeter.github.io/Jegyzokonyv/projekt3/16qam.png" width="600" height="350">
 </p>
 <p align="center"><strong>2. ábra: 16 QAM</strong></p>
 
 <p align="center">
-  <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/projekt3/qpsk.png" width="600" height="350">
+  <img src="https://csepkepeter.github.io/Jegyzokonyv/projekt3/qpsk.png" width="600" height="350">
 </p>
 <p align="center"><strong>3. ábra: QPSK</strong></p>
 
