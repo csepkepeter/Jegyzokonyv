@@ -30,7 +30,7 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 - Ni myDAQ 
 
 ## Számítások
-<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/keplet.PNG" width="300" height="170">  
+<img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/keplet.PNG" width="300" height="170">  
 
 <img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/szamitas2.PNG" width="300" height="170">  
 
