@@ -112,3 +112,4 @@ Felelős mérő személy: ..............................
 Dátum: 2024.11.13   
 
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS_CHTML"></script>
+
