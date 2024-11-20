@@ -61,7 +61,7 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 ## Mérések többféle modulációval:  
 
 <p align="center">
-  <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/projekt3/64qam.png" width="600" height="350">
+  <img src="https://csepkepeter.github.io/Jegyzokonyv/projekt3/64qam.png" width="600" height="350">
 </p>
 <p align="center"><strong>1. ábra: 64 QAM</strong></p>
 
