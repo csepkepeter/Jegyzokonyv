@@ -99,7 +99,7 @@ $$\text{Csillapítás (%)} = \left(1 - 0.5011\right) \times 100 \approx 49.89 \%
 - **Csillapítás (dB)**: -5.98 dB
 - **Csillapítás (%)**: 49.89 %
 
-<img src="https://github.com/oroszszr/jegyzokonyv/blob/main/meres1/falstad1.PNG" width="770" height="400">
+<img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/falstad1.PNG" width="770" height="400">
 
 ### Elemzés
 A PI csillapító (PI pad) ellenállásos áramkör elemzése során megállapítható, hogy a tervezett áramkör hatékonyan csökkenti a jel amplitúdóját, miközben megőrzi annak formáját. Az áramkör négy fő összetevőből áll: három ellenállásból és egy terhelő ellenállásból. Megfigyelhető, hogy kisebb eltérések vannak a számított és a mért értékek között.
