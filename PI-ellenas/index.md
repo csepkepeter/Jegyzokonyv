@@ -33,7 +33,7 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 
 <img src="https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/keplet.PNG" width="300" height="170">  
 
-<img src="szamitas2.https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/PNG" width="300" height="170">  
+<img src="https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/szamitas2.PNG" width="300" height="170">  
 
 ## Csillapítási Eredmények gyakorlatban 
 
