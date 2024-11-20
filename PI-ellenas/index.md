@@ -37,8 +37,8 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
 ## Csillapítási Eredmények gyakorlatban 
 
 ### Megadott Értékek  
-- **Bemeneti Feszültség {V_{in}}**: 10.088 V  
-- **Kimeneti Feszültség ({V_{out}})**: 5.366 V  
+- **Bemeneti Feszültség**: 10.088 V  
+- **Kimeneti Feszültség**: 5.366 V  
 
 ### Csillapítás Kiszámítása (dB)  
 A csillapítást a következő képlettel számoltuk ki:  
@@ -72,8 +72,8 @@ $$\text{Csillapítás (%)} = \left(1 - 0.532\right) \times 100 \approx 46.8\%$$
 ### A kapcsolási rajz ábrázolja a Pi csillapítót az kiszámított ellenállás értékekkel:
 
 ### Megadott Értékek
-- **Bemeneti Feszültség ($V_{in}$)**: 10 V
-- **Kimeneti Feszültség ($V_{out}$)**: 5.011 V
+- **Bemeneti Feszültség**: 10 V
+- **Kimeneti Feszültség**: 5.011 V
 
 ### Csillapítás Kiszámítása (dB)  
 A csillapítást a következő képlettel számoltuk ki:  
