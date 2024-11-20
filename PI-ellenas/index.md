@@ -29,7 +29,8 @@ A PI ellenállás-hálózat egy egyszerű, de hatékony módja az impedancia ill
   - R4 = 440 Ω
 - Ni myDAQ 
 
-## Számítások
+## Számítások  
+
 <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/keplet.PNG" width="300" height="170">  
 
 <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/PI-ellenas/szamitas2.PNG" width="300" height="170">  
