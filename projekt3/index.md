@@ -37,7 +37,7 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 | Műszer neve                       | Típus                     | Gyártási szám        | Mérési tartomány | Mérési határok     | Kép |
 |-----------------------------------|---------------------------|----------------------|------------------|--------------------|-----|
 | Johansson Hdmi modulátor          | 8202                      | 2341010237504        | 17-1218 MHz      |                    | <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/projekt3/hdmi%20modulator.png" widht="150" height="100">    |
-| METEK HD spektrum/jelszint analizátor | —                        | 240002               | 50-2200 MHz      | 51 MHz - 1000 MHz   |     |
+| METEK HD spektrum/jelszint analizátor | —                        | 240002               | 50-2200 MHz      | 51 MHz - 1000 MHz   | <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/projekt3/metekhd.png" width="150" height="100">    |
 | Laptop                            | HP                        | —                    | —                | —                  |     |
 
 ---
