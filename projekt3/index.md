@@ -70,7 +70,10 @@ A tanulók megismerjék a Johansson 8202 DVB-T modulátor működését, konfigu
 </p>
 <p align="center"><strong>2. ábra: 16 QAM</strong></p>
 
-### 3. ábra: QPSK
+<p align="center">
+  <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/projekt3/qpsk.png" width="600" height="350">
+</p>
+<p align="center"><strong>3. ábra: QPSK</strong></p>
 
 ---
 
