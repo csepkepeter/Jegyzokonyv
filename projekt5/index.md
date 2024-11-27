@@ -54,18 +54,18 @@
 ## Mérési eredmények elemzése
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 A táblázat adatai alapján az látszik, hogy a TV1 ami a TV2-be csatlakozik majd a spektrum analizátorba veszteséges a másikhoz képest ami valószínüleg az RF kábel lehet. Illetve a TV2 10 illetve 21.5(max) bitsebessége között nincs nagy eltérés azonban a beérkező bitrátában látszott a változás.  
-<p aling="center">
-  <img src="https://github.com/csepkepeter/Jegyzokonyv/blob/main/projekt5/15%20mbps.png" width="600" height="350">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/17dee039-6b2e-4305-b3f0-8734a564cf20" width="600" height="350">
 </p>  
 <p align="center"><strong>TV1 jele</strong></p>
 
-<p aling="center">  
-  <img src="https://github.com/csepkepeter/Jegyzokonyv/projekt5/10%20mbps.png" width="600" height="350">
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/f20d1768-15a6-4718-8e4f-f326cbed4f72" width="600" height="350">
 </p>  
 <p align="center"><strong>TV2 10Mbps-en</strong></p>
 
-<p aling="center">  
-  <img src="https://github.com/csepkepeter/Jegyzokonyv/projekt5/21%2C5%20mbps.png" width="600" height="350">
+<p align="center">  
+  <img src="https://github.com/user-attachments/assets/665bc0f2-4c3f-47eb-aa86-1d649fc94c9b" width="600" height="350">
 </p>  
 <p align="center"><strong>TV2 21,5Mbps-en</strong></p>
 
@@ -86,3 +86,5 @@ A modulátorokon a feladat kezdetén mindenképpen csináljatok egy factory rese
 **Aláírás:** ...
 
 **Dátum:** ...
+
+
