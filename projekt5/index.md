@@ -23,7 +23,7 @@
      - TV2: 10 Mbps  
    - Végezetül táblázatba kigyűjtöttem a mért adatokat.  
 
- ### Összeszerelés után
+### Összeszerelés után
  <p align="center">
    <img src="https://github.com/user-attachments/assets/12b4b172-3480-446c-98d7-5a1b389832a2" width="600" height="400">
  </p>
