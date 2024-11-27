@@ -1,6 +1,6 @@
 # MÉRÉSI JEGYZŐKÖNYV
 
-**A mérést végző neve:** Csépke Péter  
+**A mérést végző neve:** Csépke Péter, Snellenperger Sándor  
 **A mérés tárgya:** Bitsebesség vs jelminőség mérési feladat  
 **A mérés dátuma:** 2024.11.27.  
 **A mérést vezette:** Sándor Péter  
@@ -45,9 +45,9 @@
 
 | Mérési paraméter   | RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
 |--------------------|---------------------|--------------|--------------------|----------------|----------------|
-| **Mérési eredmény 1** | 594              | TV1          | 15                 | -35.1             | 40             |
-| **Mérési eredmény 2** | 602              | TV2          | 10                 | -29.4             | 35.4             |
-| **Mérési eredmény 3** | 602              | TV2          | 21.5 (max)         | -29.6             | 35.4             |
+| **Mérési eredmény 1** | 594              | TV1          | 13.8                 | -35.1             | 40             |
+| **Mérési eredmény 2** | 602              | TV2          | 8.25                 | -29.4             | 35.4             |
+| **Mérési eredmény 3** | 602              | TV2          | 18.4         | -29.6             | 35.4             |
 
 ---
 
@@ -72,7 +72,7 @@ A táblázat adatai alapján az látszik, hogy a TV1 ami a TV2-be csatlakozik ma
 ---
 
 ## Konklúzió  
-Összességében, a mérések alapján a Johansson 8202 DVB-T modulátor képes stabilan kezelni a különböző bitsebességeket, de a jelminőség és a jelszint optimalizálásához figyelembe kell venni a kábelezést. A modulátor többcsatornás működése során a bitsebesség növelése nem eredményezett drámai csökkenést a jelminőségben  
+Összességében, a mérések alapján a Johansson 8202 DVB-T modulátor képes stabilan kezelni a különböző bitsebességeket, de a jelminőség és a jelszint optimalizálásához figyelembe kell venni a kábelezést. A modulátor többcsatornás működése során a bitsebesség növelése nem eredményezett drámai csökkenést a jelminőségben.  
 
 ---
 
