@@ -83,8 +83,8 @@ A modulátorokon a feladat kezdetén mindenképpen csináljatok egy factory rese
 
 <br>
 
-**Aláírás:** ...
+**Aláírás:** Csépke Péter
 
-**Dátum:** ...
+**Dátum:** 2024.11.27.
 
 
