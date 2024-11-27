@@ -55,17 +55,17 @@
 Az adatok alapján az alábbi következtetéseket lehet levonni:
 A táblázat adatai alapján az látszik, hogy a TV1 ami a TV2-be csatlakozik majd a spektrum analizátorba veszteséges a másikhoz képest ami valószínüleg az RF kábel lehet. Illetve a TV2 10 illetve 21.5(max) bitsebessége között nincs nagy eltérés azonban a beérkező bitrátában látszott a változás.  
 <p aling="center">
-  <img src="https://github.com/user-attachments/assets/d5af8eec-9495-4f17-a03b-5d7f99ba76fe" width="600" height="350">
+  <img src="https://github.com/csepkepeter/Jegyzokonyv/tavkozles/projekt5/15%mbps.png" width="600" height="350">
 </p>  
 <p align="center"><strong>TV1 jele</strong></p>
 
-<p aling="center">
-  <img src="" width="600" height="350">
+<p aling="center">  
+  <img src="https://github.com/csepkepeter/Jegyzokonyv/projekt5/10%20mbps.png" width="600" height="350">
 </p>  
 <p align="center"><strong>TV2 10Mbps-en</strong></p>
 
-<p aling="center">
-  <img src="" width="600" height="350">
+<p aling="center">  
+  <img src="https://github.com/csepkepeter/Jegyzokonyv/projekt5/21%2C5%20mbps.png" width="600" height="350">
 </p>  
 <p align="center"><strong>TV2 21,5Mbps-en</strong></p>
 
