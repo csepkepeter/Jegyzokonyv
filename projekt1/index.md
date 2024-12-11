@@ -86,4 +86,5 @@ Tolerancia: Alkatrészek eltéréseinek hatása.
 Szimmetria: Aszimmetrikus elrendezés következményei.  
 Környezet: Hőmérséklet és páratartalom hatásai.  
 Ezek a tényezők befolyásolják a rendszer teljesítményét és megbízhatóságát.  
+
 <script async src="https://cdn.jsdelivr.net/npm/mathjax@2/MathJax.js?config=TeX-AMS_CHTML"></script>
