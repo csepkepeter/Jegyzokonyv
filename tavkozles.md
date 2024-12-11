@@ -1,6 +1,7 @@
 # Távközlés
 
 ## Mérési jegyzőkönyvek:
+- [Projekt 01: T mérési feladat](https://csepkepeter.github.io/Jegyzokonyv/projekt1/index)
 - [Projekt 02: TT mérési feladat](https://csepkepeter.github.io/Jegyzokonyv/PI-ellenas/index)
 - [Projekt 04: Frekvencia vs. moduláció mérési feladat](https://csepkepeter.github.io/Jegyzokonyv/projekt3/index)
 - [Projekt 05: Bitsebesség vs. jelminőség mérési feladat](https://csepkepeter.github.io/Jegyzokonyv/projekt5/index)
