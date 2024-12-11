@@ -42,7 +42,7 @@ Az elektronikában a csillapítók a jel szintjének csökkentésére szolgálna
 
 ## Számítások:
 
-  $R1,2 = Z \times ( \frac {K - 1} {K + 1} ) = 1500 \times ( \frac {1,9953 - 1}  {1,9953 + 1} ) = 498$  
+  $R1,2=Z\times(\frac{K-1}{K+1})=1500\times(\frac{1,9953-1}{1,9953+1})=498$  
   
   $R3 = 2Z \times (\frac {K} {K^2 - 1}) = 2 \times 1500 \times (\frac {1,9953} {1,9953^2 - 1}) = 2007$  
   
