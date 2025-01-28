@@ -1,5 +1,5 @@
 # MÉRÉSI JEGYZŐKÖNYV
-# Méréstechnikai Feladat: T Ellenállás-hálózat
+# Méréstechnikai Feladat: Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
 
 **A mérést végző neve:** Csépke Péter  
 **A mérés tárgya:** Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
@@ -32,9 +32,9 @@
 
 <img src="https://github.com/user-attachments/assets/4d50fd23-972f-43ce-9850-8250dda6aafc" width="650" height="500">  
 
-## Mérési adatok
-RSSI -51dBm
-RSRP -82dBm
-SNR  20dBm
-RSRQ -15dBm
-IP 100.82.157.99
+## Mérési adatok  
+RSSI -51dBm  
+RSRP -82dBm  
+SNR  20dBm  
+RSRQ -15dBm  
+IP 100.82.157.99  
