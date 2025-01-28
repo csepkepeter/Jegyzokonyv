@@ -30,7 +30,7 @@
 
 ## Hálózati topológia  
 
-<img src="https://github.com/user-attachments/assets/4d50fd23-972f-43ce-9850-8250dda6aafc" width="600" height="500">  
+<img src="https://github.com/user-attachments/assets/4d50fd23-972f-43ce-9850-8250dda6aafc" width="650" height="500">  
 
 ## Mérési adatok
 RSSI -51dBm
