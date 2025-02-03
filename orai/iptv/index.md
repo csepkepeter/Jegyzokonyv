@@ -1,8 +1,8 @@
 # MÉRÉSI JEGYZŐKÖNYV
-# Méréstechnikai Feladat: Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése  
+# Méréstechnikai Feladat: IPTV vételi rendszer kiépítése  
 
 **A mérést végző neve:** Csépke Péter  
-**A mérés tárgya:**   
+**A mérés tárgya:** IPTV vételi rendszer kiépítése  
 **A mérés száma:** órai mérés 03.  
 **A mérés dátuma:** 2025.02.03.  
 **A mérést vezette:** Sándor Péter  
