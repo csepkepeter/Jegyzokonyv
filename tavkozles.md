@@ -8,3 +8,5 @@
 - [Projekt 06: Antenna teljesítmény vs. jelszint/jelminőség](https://csepkepeter.github.io/Jegyzokonyv/projekt2/index)
 ## Külön projektek
 - [Tranzisztor mérés](https://csepkepeter.github.io/Jegyzokonyv/orai/tranzisztormeres/index)
+- [Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése](https://csepkepeter.github.io/Jegyzokonyv/orai/KTHT/index)
+- [IPTV vételi rendszer kiépítése](https://csepkepeter.github.io/Jegyzokonyv/orai/ipvt/index)
