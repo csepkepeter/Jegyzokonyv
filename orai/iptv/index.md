@@ -38,4 +38,10 @@ A földfelszíni digitális TV vételi rendszer kiépítése, a megfelelő adót
 
 ## A feladat menete  
 Mielőtt elkeztem volna a hálózat kiépítését és konfigurálását minden eszközt alaphelyzetbe állítottam, hogy az esetleges zavaró tényezők megszünjenek.
-Ezt követően felléptem 
+Ezt követően felléptem az **fmdx.hu** oldalára és megkerestem az avasi adótorony csatornakiosztását.  
+
+Keresgéltem az ingyenes csatornák közül és kiválasztottam a digitális földfelszíni televízióadások közül a **Miskolc Városi TV** -t, ami a **634MHz-en** helyezkedik el. A választásom azért esett erre, mert ezt a csatorna sugároz a leggyengébben **(0,126kW)**, és ezt a csatornát sikerül a legerősebb vétellel venni akkor a többi csatorna is optimális jellel fogható.  
+
+![miskolctv](https://github.com/user-attachments/assets/cc053a97-7acb-4da9-b6f4-d5dbd3e8bf70)  
+
+
