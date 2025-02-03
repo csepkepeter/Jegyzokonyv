@@ -14,6 +14,6 @@
 
 <style>
 body {
-background-color: gray;
+background-color: lightgray;
 }
 </style>
