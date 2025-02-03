@@ -10,3 +10,10 @@
 - [Tranzisztor mérés](https://csepkepeter.github.io/Jegyzokonyv/orai/tranzisztormeres/index)
 - [Komplex Távközlési Hálózat Tervezése, Telepítése és Mérése](https://csepkepeter.github.io/Jegyzokonyv/orai/KTHT/index)
 - [IPTV vételi rendszer kiépítése](https://csepkepeter.github.io/Jegyzokonyv/orai/iptv/index)
+
+
+<style>
+body {
+background-color: gray;
+}
+</style>
