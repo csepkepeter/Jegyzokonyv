@@ -21,21 +21,21 @@ Koaxiális kábel szerelése, valamint a csillapítás mérése stabil RF jelfor
 3. Blankoló      
 
 |     Műszer neve    |        Típus        |      Kép      |
-| ------------------ | ------------------- | --------------| 
+| ------------------ | ------------------- | ------------- | 
 | Antenna            | Iskra P2845         |               | 
 | Fejállomás         | LEMCO SCL-824CT     |               | 
 | Set-top box        | MAG IPTV            |               |  
 
 ## Mérési adatok  
 
-|     Műszer neve    |        Típus        |      Kép      |
-| ------------------ | ------------------- | --------------| 
-| Antenna            | Iskra P2845         |               | 
-| Fejállomás         | LEMCO SCL-824CT     |               | 
-| Set-top box        | MAG IPTV            |               |  
+| Frekvencia [MHz] | Generált jelszint [dBuV] | Vett jelszint [dBuV] | Csillapítás [dBuV] |
+|------------------|--------------------------|----------------------|--------------------|
+| 177,5            |  90                      | 89.2                 | 0.8                |
+| 858              |  90                      | 88.0                 | 2                  |  
 
 ![IMG_20250212_115345_edit_359144044459506](https://github.com/user-attachments/assets/c0102707-e0ec-43e5-a067-d2a0056569da)
 ![IMG_20250212_115405_edit_359121004661130](https://github.com/user-attachments/assets/cbabea87-ab1b-41a5-8602-9847d02b8be1)
-![its_snapshot_0001](https://github.com/user-attachments/assets/3f47f1a9-b46a-43a5-8402-e3bcf4744878)
-![its_snapshot_0002](https://github.com/user-attachments/assets/e1792dc8-438b-4d1c-9669-0dafd54f68d9)
+![858](https://github.com/user-attachments/assets/3f47f1a9-b46a-43a5-8402-e3bcf4744878)
+![177](https://github.com/user-attachments/assets/e1792dc8-438b-4d1c-9669-0dafd54f68d9)
+![muszer](https://github.com/user-attachments/assets/bd8361bd-f621-4ddd-b4e6-0f1bf8985b7a)
 
